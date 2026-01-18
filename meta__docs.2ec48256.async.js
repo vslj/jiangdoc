@@ -1,0 +1,69 @@
+"use strict";(self.webpackChunkjiangdoc=self.webpackChunkjiangdoc||[]).push([[904],{38465:function(e,n,a){a.r(n),a.d(n,{demos:function(){return t}});var d=a(75271),t={}},994:function(e,n,a){a.r(n),a.d(n,{demos:function(){return t}});var d=a(75271),t={}},48720:function(e,n,a){a.r(n),a.d(n,{demos:function(){return t}});var d=a(75271),t={}},96894:function(e,n,a){a.r(n),a.d(n,{demos:function(){return t}});var d=a(75271),t={}},11279:function(e,n,a){a.r(n),a.d(n,{demos:function(){return t}});var d=a(75271),t={}},87767:function(e,n,a){a.r(n),a.d(n,{demos:function(){return t}});var d=a(75271),t={}},68176:function(e,n,a){a.r(n),a.d(n,{demos:function(){return t}});var d=a(75271),t={}},23832:function(e,n,a){a.r(n),a.d(n,{texts:function(){return d}});const d=[]},66764:function(e,n,a){a.r(n),a.d(n,{texts:function(){return d}});const d=[{value:`\u76EE\u6807\uFF1A\r
+`,paraId:0},{value:"\u8BA9 50%\uFF5E70% \u7684\u4F4E\u7EA7\u9519\u8BEF\u5728\u201C\u5199\u4EE3\u7801\u4E4B\u524D\u201D\u5C31\u6D88\u5931",paraId:0},{value:"\u7F16\u7801\u524D\u4E0D\u662F\u201C\u60F3\u4E00\u60F3\u201D\u90A3\u4E48\u865A\uFF0C\u5B83\u6709\u56FA\u5B9A\u4EA7\u51FA\u7269\uFF1A",paraId:1,tocIndex:0},{value:`\u9700\u6C42 \u2192 \u6570\u636E \u2192 \u72B6\u6001 \u2192 \u8FB9\u754C \u2192 \u7EA6\u675F
+`,paraId:2,tocIndex:0},{value:"\u4F60\u6BCF\u5199\u4E00\u4E2A\u529F\u80FD\uFF0C\u81F3\u5C11\u8981\u5728\u8111\u5B50\u91CC\uFF08\u6216\u7EB8\u4E0A\uFF09\u8D70\u5B8C\u8FD9 5 \u6B65\u3002",paraId:3,tocIndex:0},{value:`\u201C\u505A\u4E00\u4E2A\u767B\u5F55\u9875\u201D\r
+\u201C\u505A\u4E00\u4E2A\u5217\u8868\u201D\r
+\u201C\u505A\u4E00\u4E2A\u7B5B\u9009\u529F\u80FD\u201D`,paraId:4,tocIndex:2},{value:"\u8FD9\u4E9B ",paraId:5,tocIndex:2},{value:"\u6CA1\u6CD5\u5224\u65AD\u5BF9\u9519",paraId:5,tocIndex:2},{value:"\u3002",paraId:5,tocIndex:2},{value:"\u4F60\u8981\u5728\u7F16\u7801\u524D\u5C31\u80FD\u56DE\u7B54\uFF1A",paraId:6,tocIndex:3},{value:"\u4EC0\u4E48\u60C5\u51B5\u4E0B\u7B97\u6210\u529F\uFF1F",paraId:7,tocIndex:3},{value:"\u4EC0\u4E48\u60C5\u51B5\u4E0B\u7B97\u5931\u8D25\uFF1F",paraId:7,tocIndex:3},{value:"\u5931\u8D25\u65F6\u7528\u6237\u770B\u5230\u4EC0\u4E48\uFF1F",paraId:7,tocIndex:3},{value:"\u793A\u4F8B\uFF1A\u767B\u5F55\u529F\u80FD",paraId:8,tocIndex:3},{value:`\u6210\u529F\uFF1A\r
+- \u8F93\u5165\u5408\u6CD5\u8D26\u53F7\u5BC6\u7801\r
+- \u8BF7\u6C42\u6210\u529F\r
+- \u5B58 token\r
+- \u8DF3\u8F6C\u9996\u9875\r
+\r
+\u5931\u8D25\uFF1A\r
+- \u8D26\u53F7\u5BC6\u7801\u9519\u8BEF \u2192 \u660E\u786E\u63D0\u793A\r
+- \u7F51\u7EDC\u5931\u8D25 \u2192 \u901A\u7528\u9519\u8BEF\r
+- \u591A\u6B21\u70B9\u51FB \u2192 \u53EA\u53D1\u4E00\u6B21\u8BF7\u6C42
+`,paraId:9,tocIndex:3},{value:"\u{1F511} ",paraId:10,tocIndex:3},{value:"\u4E00\u6761\u5224\u5B9A = \u4E00\u6761\u672A\u6765\u7684\u6D4B\u8BD5\u7528\u4F8B",paraId:10,tocIndex:3},{value:"\u8FD9\u662F",paraId:11,tocIndex:4},{value:"\u9632\u4F4E\u7EA7\u9519\u8BEF\u7684\u7B2C\u4E00\u5927\u5229\u5668",paraId:11,tocIndex:4},{value:"\u3002",paraId:11,tocIndex:4},{value:"\u8FD9\u4E2A\u529F\u80FD\u4F9D\u8D56\u54EA\u4E9B\u63A5\u53E3\uFF1F",paraId:12,tocIndex:5},{value:"\u6BCF\u4E2A\u63A5\u53E3",paraId:12,tocIndex:5},{value:"\u5B8C\u6574\u8FD4\u56DE\u7ED3\u6784",paraId:12,tocIndex:5},{value:"\u662F\u4EC0\u4E48\uFF1F",paraId:12,tocIndex:5},{value:"\u54EA\u4E9B\u5B57\u6BB5\u53EF\u80FD\u4E3A\u7A7A\uFF1F",paraId:12,tocIndex:5},{value:"\u54EA\u4E9B\u5B57\u6BB5\u662F UI \u6D3E\u751F\u7684\uFF1F",paraId:12,tocIndex:5},{value:`// 1\uFE0F\u20E3 \u540E\u7AEF\u8FD4\u56DE\r
+interface LoginResponseDTO {\r
+  token: string\r
+  expireAt: number\r
+  user?: {\r
+    id: string\r
+    name: string\r
+  }\r
+}\r
+\r
+// 2\uFE0F\u20E3 \u524D\u7AEF\u5185\u90E8\u4F7F\u7528\r
+interface AuthState {\r
+  token: string\r
+  isLogin: boolean\r
+  userName: string\r
+}\r
+\r
+// 3\uFE0F\u20E3 \u89C6\u56FE\u6D88\u8D39\r
+interface HeaderViewModel {\r
+  title: string\r
+  showLogout: boolean\r
+}
+`,paraId:13,tocIndex:6},{value:"\u7ECF\u9A8C\u94C1\u5F8B\uFF1A",paraId:14,tocIndex:6},{value:`\u274C \u7EC4\u4EF6\u4E0D\u8981\u76F4\u63A5\u5403 DTO\r
+\u2705 DTO \u2192 State \u2192 ViewModel`,paraId:15,tocIndex:6},{value:"\u4F60\u4E4B\u524D\u505A ",paraId:16,tocIndex:6},{value:"\u533B\u7597\u5F71\u50CF / \u590D\u6742\u4E1A\u52A1\u524D\u7AEF",paraId:16,tocIndex:6},{value:"\uFF0C\u8FD9\u4E00\u6B65\u5C24\u5176\u91CD\u8981\u3002",paraId:16,tocIndex:6},{value:"\u54EA\u4E9B\u662F ",paraId:17,tocIndex:8},{value:"\u5168\u5C40\u72B6\u6001",paraId:17,tocIndex:8},{value:"\uFF08model / store\uFF09",paraId:17,tocIndex:8},{value:"\u54EA\u4E9B\u662F ",paraId:17,tocIndex:8},{value:"\u9875\u9762\u72B6\u6001",paraId:17,tocIndex:8},{value:"\u54EA\u4E9B\u662F ",paraId:17,tocIndex:8},{value:"\u4E34\u65F6\u72B6\u6001",paraId:17,tocIndex:8},{value:"\u72B6\u6001",paraId:18,tocIndex:9},{value:"\u653E\u54EA",paraId:18,tocIndex:9},{value:"\u539F\u56E0",paraId:18,tocIndex:9},{value:"token",paraId:18,tocIndex:9},{value:"\u5168\u5C40",paraId:18,tocIndex:9},{value:"\u591A\u5904\u4F7F\u7528",paraId:18,tocIndex:9},{value:"\u7528\u6237\u4FE1\u606F",paraId:18,tocIndex:9},{value:"\u5168\u5C40",paraId:18,tocIndex:9},{value:"Header / \u6743\u9650",paraId:18,tocIndex:9},{value:"loading",paraId:18,tocIndex:9},{value:"\u9875\u9762",paraId:18,tocIndex:9},{value:"\u751F\u547D\u5468\u671F\u77ED",paraId:18,tocIndex:9},{value:"\u9519\u8BEF\u4FE1\u606F",paraId:18,tocIndex:9},{value:"\u9875\u9762",paraId:18,tocIndex:9},{value:"UI \u4E13\u7528",paraId:18,tocIndex:9},{value:"\u{1F525} ",paraId:19,tocIndex:9},{value:"\u72B6\u6001\u653E\u9519\u5730\u65B9 = \u672A\u6765\u4E00\u5B9A\u8FD4\u5DE5",paraId:19,tocIndex:9},{value:"\u5728\u5199\u4EE3\u7801\u524D\uFF0C",paraId:20,tocIndex:10},{value:"\u4F60\u5FC5\u987B\u81F3\u5C11\u60F3 6 \u7C7B\u8FB9\u754C",paraId:20,tocIndex:10},{value:"\uFF1A",paraId:20,tocIndex:10},{value:"\u63A5\u53E3\u8FD4\u56DE null\uFF1F",paraId:21,tocIndex:11},{value:"\u6570\u7EC4\u4E3A\u7A7A\uFF1F",paraId:21,tocIndex:11},{value:"\u5B57\u6BB5\u7F3A\u5931\uFF1F",paraId:21,tocIndex:11},{value:"\u8FDE\u7EED\u70B9\u51FB\uFF1F",paraId:22,tocIndex:12},{value:"\u5FEB\u901F\u5207\u6362\u8DEF\u7531\uFF1F",paraId:22,tocIndex:12},{value:"\u4E0A\u4E00\u4E2A\u8BF7\u6C42\u8FD8\u6CA1\u7ED3\u675F\uFF1F",paraId:22,tocIndex:12},{value:"\u672A\u767B\u5F55\u8BBF\u95EE\uFF1F",paraId:23,tocIndex:13},{value:"token \u8FC7\u671F\uFF1F",paraId:23,tocIndex:13},{value:"\u6743\u9650\u53D8\u66F4\uFF1F",paraId:23,tocIndex:13},{value:"\u63A5\u53E3 500\uFF1F",paraId:24,tocIndex:14},{value:"\u8D85\u65F6\uFF1F",paraId:24,tocIndex:14},{value:"JSON \u89E3\u6790\u5931\u8D25\uFF1F",paraId:24,tocIndex:14},{value:"\u7A7A\u5B57\u7B26\u4E32",paraId:25,tocIndex:15},{value:"\u8D85\u957F\u8F93\u5165",paraId:25,tocIndex:15},{value:"\u7279\u6B8A\u5B57\u7B26",paraId:25,tocIndex:15},{value:"\u7EC4\u4EF6\u5378\u8F7D\u540E setState\uFF1F",paraId:26,tocIndex:16},{value:"effect \u4F9D\u8D56\u662F\u5426\u5B8C\u6574\uFF1F",paraId:26,tocIndex:16},{value:"\u4F60\u53EF\u4EE5\u76F4\u63A5\u7167\u8FD9\u4E2A checklist \u8FC7\u4E00\u904D\u3002",paraId:27,tocIndex:16},{value:"\u5728\u7F16\u7801\u524D\uFF0C\u4F60\u8981\u7ED9\u81EA\u5DF1\u4E0B",paraId:28,tocIndex:17},{value:"\u4E0D\u53EF\u8FDD\u53CD\u7684\u89C4\u5219",paraId:28,tocIndex:17},{value:"\u3002",paraId:28,tocIndex:17},{value:`- \u4E0D\u76F4\u63A5\u4F7F\u7528\u63A5\u53E3\u8FD4\u56DE\r
+- \u6240\u6709 async \u90FD try/catch\r
+- \u6240\u6709\u53EF\u9009\u5B57\u6BB5\u5FC5\u987B\u6709\u9ED8\u8BA4\u503C\r
+- loading \u72B6\u6001\u5FC5\u987B\u6210\u5BF9\u51FA\u73B0\r
+- \u4EFB\u4F55\u526F\u4F5C\u7528\u5FC5\u987B\u53EF\u53D6\u6D88
+`,paraId:29,tocIndex:18},{value:"\u{1F511} ",paraId:30,tocIndex:18},{value:"\u89C4\u5219 = \u4F60\u672A\u6765\u5C11 debug \u7684\u539F\u56E0",paraId:30,tocIndex:18},{value:"\u4F60\u4EE5\u540E\u6BCF\u5199\u4E00\u4E2A\u529F\u80FD\uFF0C\u53EF\u4EE5\u7528\u8FD9\u4E2A\u6A21\u677F\uFF1A",paraId:31,tocIndex:19},{value:`\u3010\u529F\u80FD\u76EE\u6807\u3011\r
+- \u7528\u6237\u53EF\u4EE5\u2026\u2026\r
+\r
+\u3010\u6210\u529F\u6761\u4EF6\u3011\r
+- \u2026\r
+\r
+\u3010\u5931\u8D25\u6761\u4EF6\u3011\r
+- \u2026\r
+\r
+\u3010\u63A5\u53E3 & \u6570\u636E\u3011\r
+- \u63A5\u53E31\uFF1A\r
+- \u8FD4\u56DE\u5B57\u6BB5\uFF1A\r
+- \u53EF\u80FD\u4E3A\u7A7A\uFF1A\r
+\r
+\u3010\u72B6\u6001\u5212\u5206\u3011\r
+- \u5168\u5C40\uFF1A\r
+- \u9875\u9762\uFF1A\r
+- \u4E34\u65F6\uFF1A\r
+\r
+\u3010\u8FB9\u754C\u6E05\u5355\u3011\r
+- \u7A7A\u503C\uFF1A\r
+- \u5F02\u5E38\uFF1A\r
+- \u5E76\u53D1\uFF1A\r
+\r
+\u3010\u9632\u9519\u89C4\u5219\u3011\r
+- \u2026
+`,paraId:32,tocIndex:19},{value:"\u54EA\u6015\u53EA\u82B1 5\uFF5E10 \u5206\u949F\uFF0C\u4E5F\u975E\u5E38\u503C\u3002",paraId:33,tocIndex:19}]},31857:function(e,n,a){a.r(n),a.d(n,{texts:function(){return d}});const d=[]},7267:function(e,n,a){a.r(n),a.d(n,{texts:function(){return d}});const d=[]},97791:function(e,n,a){a.r(n),a.d(n,{texts:function(){return d}});const d=[]},31969:function(e,n,a){a.r(n),a.d(n,{texts:function(){return d}});const d=[{value:"\u76EE\u6807\u662F\u5728\u5F00\u53D1\u8FC7\u7A0B\u4E2D\u7684\u6BCF\u4E00\u6B65\u90FD\u5C3D\u91CF\u9075\u5FAA\u89C4\u8303\uFF0C\u5E76\u4E14\u517B\u6210\u826F\u597D\u7684\u7F16\u7801\u4E60\u60EF\uFF0C\u7528\u4E60\u60EF\u6765\u89C4\u8303\u81EA\u5DF1\u7684\u884C\u4E3A\uFF0C\u51CF\u5C11\u4E00\u4E9B\u57FA\u672C\u7684\u9519\u8BEF\uFF0C\u63D0\u9AD8\u4EE3\u7801\u8D28\u91CF\uFF0C\u540C\u65F6\u5229\u7528\u4E00\u4E9B\u5DE5\u5177\u6765\u8F85\u52A9\u68C0\u67E5\uFF0C\u63D0\u9AD8\u6548\u7387\uFF0C\u4EE5\u53CA\u51C6\u786E\u6027\u3002",paraId:0}]},77568:function(e,n,a){a.r(n),a.d(n,{texts:function(){return d}});const d=[]}}]);
